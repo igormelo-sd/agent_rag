@@ -83,7 +83,7 @@ pip install -r requirements.txt
 
 ### Na pasta `data` troque o PDF do arquivo por um PDF de seu desejo
 
-Para guardar o PDF no banco vetorial precisa ir até o arquivo embedding.py, colocar o nome desejado da coleção na linha 216 e na linha 375 e no arquivo rag_system.py na linha 21, o nome não pode possuir caracteres especiais e então rodar o arquivo
+Para guardar o PDF no banco vetorial precisa ir até o arquivo populate_database.py, colocar o nome desejado na espaço definidado para a coleção , o nome não pode possuir caracteres especiais ou espaço.
 ```bash
 python populate_database.py
 ```
@@ -116,7 +116,7 @@ python main.py
 * [LangChain](https://www.langchain.com/)
 * [OpenAI API](https://platform.openai.com/)
 * [Streamlit](https://streamlit.io/)
-* Python 3.13+
+* Python 3.10+
 
 ---
 
