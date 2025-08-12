@@ -6,7 +6,8 @@ Implementação de um projeto com [LangChain](https://www.langchain.com/), combi
 >
 > * [Thomas Janssen](https://github.com/ThomasJanssen-tech/Retrieval-Augmented-Generation/tree/main)
 > * [Alejandro AO](https://github.com/alejandro-ao/ask-multiple-pdfs)
-
+> * 🤝 **Cooperação na produção do projeto:**
+> * [Renatha Loiza](https://github.com/RenathaLoiza)
 
 ---
 
