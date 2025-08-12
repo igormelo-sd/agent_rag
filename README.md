@@ -102,7 +102,7 @@ python agent.py
 ```bash
 streamlit run streamlit_app.py
 ```
-###  OU
+###  Ou rodar Streamlit(interface web) via python main.py
 
 ```bash
 python main.py
